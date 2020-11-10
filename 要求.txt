@@ -1,0 +1,11 @@
+Python后端开发
+按照项目开发的顺序，完成以下机试题：
+    1. 写出数据库设计的流程，并按照此流程设计一个课程管理系统（前端+后端），表设计应该不少于5张
+    2. 前端开发优先Vue+ElementUI或者React+Ant Design，也可以是Bootstrap3或者Bootstrap4，
+        构建工具选择webpack
+        后台admin优先使用xadmin或者simpleUI
+    3. 后端开发使用DRF，设计并实现不少于15个Restful API接口，并使用Open API生成接口文档
+    4. 前后端交互使用Ajax或者axios或者fetch等······
+    5. 使用pytest或者unitest书写测试用例
+    6. 使用locust完成接口压力测试
+    7. 前后端代码，使用uwsgi，nginx部署到阿里云Centos7服务器（如果没有阿里云服务器，也可以是本地centos7虚拟主机）
